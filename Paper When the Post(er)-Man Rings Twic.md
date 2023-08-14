@@ -3,7 +3,7 @@ Josua Böser, Chrestos Chrestos Concept GmbH & Co. KG, Essen, Germany
 
 
 ## ABSTRACT
-Scientific posters are essential for communicating research findings to a broader audience. Unfortunately, their importance tends to be overlooked, and many researchers struggle to create informative and visually appealing posters. A lack in this skillset often results in hard work going unnoticed, which poses a significant loss to the scientific community.This paper presents a comprehensive guide to creating more captivating scientific posters. It provides practical tools for researchers to improve their overall presentation and design skills, including tips on layout, color schemes, and data visualization. Additionally, we review classic and modern poster designs, offering recommendations on presentation style and facilitation.Using the recommendations outlined in this paper, researchers can acquire tools to morph their posters into a dazzling work of art, capturing their audience's attention and ensuring their research is understood and appreciated.So, when the post(er)-man rings twice, be prepared to make your science sexy!
+Scientific posters are essential for communicating research findings to a broader audience. Unfortunately, their importance tends to be overlooked, and many researchers struggle to create informative and visually appealing posters. A lack in this skillset often results in hard work going unnoticed, which poses a significant loss to the scientific community.This paper presents a comprehensive guide to creating more captivating scientific posters. It provides practical tools for researchers to improve their overall presentation and design skills, including tips on layout, color schemes, and data visualization. Additionally, we review classic and modern poster designs, offering recommendations on presentation style and facilitation. Using the recommendations outlined in this paper, researchers can acquire tools to morph their posters into a dazzling work of art, capturing their audience's attention and ensuring their research is understood and appreciated. So, when the post(er)-man rings twice, be prepared to make your science sexy!
 
 ## INTRODUCTION
 
@@ -11,29 +11,42 @@ Scientific posters serve as a crucial medium for the dissemination of research f
 
 The importance of scientific posters extends beyond mere aesthetics. A well-designed poster can captivate the audience's attention, simplify complex information, and promote the researcher's work effectively. Conversely, a poorly designed poster can obscure the research message and deter potential discussions. Therefore, mastering the art of poster creation is an essential skill for any researcher.
 
-This paper will delve into the key elements of a successful poster, discuss the principles of design, and analyze case studies of effective posters. It will also provide a step-by-step guide to creating a scientific poster, offering practical tips and recommendations along the way. By the end of this paper, researchers will be equipped with the necessary tools to transform their scientific findings into a visually compelling and informative poster.
+This paper will delve into the key elements of a successful poster, discuss the principles of design, and analyze case studies of effective posters. It will also provide a step-by-step guide to creating a scientific poster, offering practical tips and recommendations along the way. By the end of this paper, researchers will be equipped with the tools to transform their scientific findings into a visually compelling and informative poster.
 
 
 ## Main Body
+The general structure of this paper is to be as easiliy understood as possible. To achiev this every chapter is equipped with a table, which summarizes the contents. If the readers wants a fast overview, the tables should be enough to achieve that.
+The source code of this paper can be accessed under https://github.com/UnfriendlySpider/How_to_Poster. I am happy to converse with everyone who is interessted in this topic. There are a lot of different ideads and opinions in this area and I am always happy to get additional information.
 
-### General Idea for content creations
 
-- Know your audience and create according to them.
-- Reduce the noice
-  - Clarity above everything else.
-  - Avoid technical terms if possible
-  - Shorten where it is possible.
-  - Don't waste the time of you audience.
-- Add 
+### Principles of Effective Communication [1]
+
+Since the beginning of communication humans created tales. It seems to be on of the core needs of humans to tell each other storys and we listen to a lot of different ones during our live. With this training we can often instantly recognize if a story is bad, unstructed, or boring to read/listen/watch to. We can use this ability for the creation of content, as everything can be seen as a story. For that I recommend to look at your poster as a story you want to tell your relatives, friends, and colleques. 
+Let them listen to your story and get their feedback. If they tell you, that your story is hard to follow or boring don't be discouraged. It takes a lot of time to create something good.
+
+The story we recognize as interessting follow basic principles which can be applied to every communication. In "The Three Laws of Professional Communication" from Doumont [1] four basic laws are proposed for a good communication style.
+
+|                    | Description |
+| ------------------ | ----------- |
+| Clear Purpose                     | Have a clear purpose in mind while creating content.             |
+| Mind the audience                 | Your poster won't matter if your audience does not understand it. <br><br> You are the expert in the field with a lot of background knowledge. The audience rarely has this and you will need to simplify the content to let them understand it at their level in a short amount of time. <br><br> The common aspect of all the possible audience is, that they don't want to waste their time. |
+| Reduce the Noice to Content Ratio | If you want to transfer knowledge there can be a lot of different "noices" which can distract the audience. The more distraction is present the harder it is for your audience to follow the points you find important. To avoid that add only information and don't overengineer your creation. |
+| Add Effective Redundancys         | Repetition can be a good tool to emphazize certain information. It is important not to overuse this but if you find something extremley import you can repeat information. For example by adding a relevant graph and adding it in the conclusion. |
+||
+
+
+
+The beautiful aspect of a posters is, that it is a medium with a lot of possibilities. You can be creative with the design and the presentation style, but even if posters are a flexible medium, there are some basic rules for effective communication. 
+If you create a poster, write a paper, or hold a presentation it is always usefull to remember these principles as they are part of every communication type. 
 
 
 ### Concept Creation
+- Create a concept with a pen and paper
+- 
 
+### Basic Structure
 
-### Structure
-A successful scientific poster is more than just a collage of text and images. It is a carefully crafted visual narrative that communicates the essence of the research in a concise and engaging manner. Here are the key elements that contribute to a successful poster:
-
-|                    | Description |
+|  Structure         | Description |
 | ------------------ | ----------- |
 | Title              | The title should be concise, compelling, and descriptive. It should capture the essence of the research and draw the audience in. |
 | Introduction       | This section should provide a brief overview of the research topic, its relevance, and the objectives of the study. |
@@ -44,10 +57,8 @@ A successful scientific poster is more than just a collage of text and images. I
 | Acknowledgments    | This section should acknowledge any individuals or institutions that contributed to the research. |
 | Contact Information| Providing contact information allows interested viewers to reach out for further discussion or collaboration. |
 
-The Important Aspects of a Poster, as for a presentation, is to tell a story. 
 
 ### Design Principles
-The design of a scientific poster plays a crucial role in its effectiveness. A well-designed poster can enhance readability, highlight key information, and engage the audience. Here are some design principles to consider:
 
 |             | Description |
 | ----------- | ----------- |
@@ -60,39 +71,41 @@ The design of a scientific poster plays a crucial role in its effectiveness. A w
 | Typography  | Choose fonts that are easy to read from a distance. The text size should be large enough to be read from at least a meter away. |
 
 
-In the next section, we will analyze case studies of effective posters and discuss what makes them successful.
 
-```mermaid
-mindmap
-  root(Scientific Poster)
-    Text
-    Pictures
-    Graphs
-    Tools
-```
 
 ### Text
 - Short. Dont waste the time of the audience. Rule of tumbs is under 250 words
-- Eye catching wtihout beeing false
-- Fine line between polemic and correct
-- Word of play
+- Title
+  - Eye catching wtihout beeing false
+  - Fine line between polemic and correct
+  - Word of plays
+- Clarity above everything else.
+- Avoid technical terms if possible
+- Shorten where it is possible.
+- Don't waste the time of you audience.
 
 
 ### Pictures
-- best vector graphics
-- large / high resolution
+- best vector graphics, otherwise large / high resolution
+
 
 ### Graphs
+- best vector graphics
+- If able use a specialized programming language (R )
+
 
 ### Tools
 - Powerpoint
 - Prezi
 - Latex (tikzposter)
+- Canvas
 
 
+### Review
+- Print your poster, pin it at a wall in your working place, and provide pens next to it. Let your colleques (or anyone else) write comments on your poster.
 
 
-## CONCLUSION
+## Summary
 
 The conclusion summarises your paper and ties together any loose ends. You can use the conclusion to make any final points such as recommendations predictions, or judgments.
 
@@ -100,6 +113,7 @@ The conclusion summarises your paper and ties together any loose ends. You can u
 
 References go at the end of your paper. This section is not required.
 
+[1] The Three Laws of Professional Communication, JEAN-LUC DOUMONT
 
 ## ACKNOWLEDGMENTS
 
@@ -120,3 +134,4 @@ Work Phone: +49 160 4655151
 Email: josua.boeser@chrestos.de
 
 Brand and product names are trademarks of their respective companies.
+
