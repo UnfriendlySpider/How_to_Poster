@@ -1,4 +1,4 @@
-# Paper When the Post(er)-Man Rings Twice - Make Your Science Sexy
+# When the Post(er)-Man Rings Twice - Make Your Science Sexy
 Josua Böser, Chrestos Chrestos Concept GmbH & Co. KG, Essen, Germany
 
 
@@ -13,23 +13,38 @@ The importance of scientific posters extends beyond mere aesthetics. A well-desi
 
 This paper will delve into the key elements of a successful poster, discuss the principles of design, and analyze case studies of effective posters. It will also provide a step-by-step guide to creating a scientific poster, offering practical tips and recommendations along the way. By the end of this paper, researchers will be equipped with the necessary tools to transform their scientific findings into a visually compelling and informative poster.
 
-In the next section, we will explore the elements of a successful poster.
 
 ## Main Body
 
-### Elements of a Successful Poster
+### General Idea for content creations
+
+- Know your audience and create according to them.
+- Reduce the noice
+  - Clarity above everything else.
+  - Avoid technical terms if possible
+  - Shorten where it is possible.
+  - Don't waste the time of you audience.
+- Add 
+
+
+### Concept Creation
+
+
+### Structure
 A successful scientific poster is more than just a collage of text and images. It is a carefully crafted visual narrative that communicates the essence of the research in a concise and engaging manner. Here are the key elements that contribute to a successful poster:
 
 |                    | Description |
 | ------------------ | ----------- |
 | Title              | The title should be concise, compelling, and descriptive. It should capture the essence of the research and draw the audience in. |
 | Introduction       | This section should provide a brief overview of the research topic, its relevance, and the objectives of the study. |
-| Methods            | This section should outline the methodology used in the research. It should be concise and easy to understand, allowing the audience to grasp the approach taken. |
+| Methods            | Classicly this section should outline the methodology used in the research. It should be concise and easy to understand, allowing the audience to grasp the approach taken. Some modern approaches completely erase this section and reference to the original paper. |
 | Results            | This section should present the key findings of the research. Visual aids such as graphs, charts, and tables can be used to display results effectively. |
 | Conclusion         | This section should summarize the findings, discuss their implications, and suggest areas for future research. |
 | References         | Any sources cited in the poster should be listed here. Ensure to follow the citation style relevant to your field. |
 | Acknowledgments    | This section should acknowledge any individuals or institutions that contributed to the research. |
 | Contact Information| Providing contact information allows interested viewers to reach out for further discussion or collaboration. |
+
+The Important Aspects of a Poster, as for a presentation, is to tell a story. 
 
 ### Design Principles
 The design of a scientific poster plays a crucial role in its effectiveness. A well-designed poster can enhance readability, highlight key information, and engage the audience. Here are some design principles to consider:
@@ -57,6 +72,11 @@ mindmap
 ```
 
 ### Text
+- Short. Dont waste the time of the audience. Rule of tumbs is under 250 words
+- Eye catching wtihout beeing false
+- Fine line between polemic and correct
+- Word of play
+
 
 ### Pictures
 - best vector graphics
@@ -83,7 +103,7 @@ References go at the end of your paper. This section is not required.
 
 ## ACKNOWLEDGMENTS
 
-Acknowledgments go after your references. This section is not required.
+
 
 ## RECOMMENDED READING
 
