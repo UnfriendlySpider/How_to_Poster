@@ -32,7 +32,7 @@ The story we recognize as interessting follow basic principles which can be appl
 | Mind the audience                 | Your poster won't matter if your audience does not understand it. <br><br> You are the expert in the field with a lot of background knowledge. The audience rarely has this and you will need to simplify the content to let them understand it at their level in a short amount of time. <br><br> The common aspect of all the possible audience is, that they don't want to waste their time. |
 | Reduce the Noice to Content Ratio | If you want to transfer knowledge there can be a lot of different "noices" which can distract the audience. The more distraction is present the harder it is for your audience to follow the points you find important. To avoid that add only information and don't overengineer your creation. |
 | Add Effective Redundancys         | Repetition can be a good tool to emphazize certain information. It is important not to overuse this but if you find something extremley import you can repeat information. For example by adding a relevant graph and adding it in the conclusion. |
-||
+|||
 
 
 
@@ -41,8 +41,14 @@ If you create a poster, write a paper, or hold a presentation it is always usefu
 
 
 ### Concept Creation
-- Create a concept with a pen and paper
-- 
+
+|  Structure         | Description |
+| ------------------  | ----------- |
+| Define purpose         | At first design yourself a clear for the poster. This is something that can be redefined throughout the creation process, but it  is helpfull to to have a redline to orient yourself along the creation process|
+| Choose basic layout    | If you don't now where to start use one of these 4 basic layouts.  |
+| Create sketch          | The eaysiest way to start is to create a sketch with pen and paper.|
+|||
+
 
 ### Basic Structure
 
@@ -56,7 +62,7 @@ If you create a poster, write a paper, or hold a presentation it is always usefu
 | References         | Any sources cited in the poster should be listed here. Ensure to follow the citation style relevant to your field. |
 | Acknowledgments    | This section should acknowledge any individuals or institutions that contributed to the research. |
 | Contact Information| Providing contact information allows interested viewers to reach out for further discussion or collaboration. |
-
+|||
 
 ### Design Principles
 
@@ -69,40 +75,51 @@ If you create a poster, write a paper, or hold a presentation it is always usefu
 | Whitespace  | Whitespace, or negative space, is the area of the poster that is left unmarked. It gives the elements on the poster room to breathe and can help guide the viewer's eye. |
 | Color       | Use color sparingly and purposefully. Too many colors can be distracting, while a thoughtful color scheme can enhance the poster's effectiveness. |
 | Typography  | Choose fonts that are easy to read from a distance. The text size should be large enough to be read from at least a meter away. |
-
+|||
 
 
 
 ### Text
-- Short. Dont waste the time of the audience. Rule of tumbs is under 250 words
-- Title
-  - Eye catching wtihout beeing false
-  - Fine line between polemic and correct
-  - Word of plays
-- Clarity above everything else.
-- Avoid technical terms if possible
-- Shorten where it is possible.
-- Don't waste the time of you audience.
-
+|                    | Description |
+| ------------------ | ----------- |
+| Short                     | Dont waste the time of the audience. Rule of tumbs is under 250 words. Shorten where it is possible. |
+| Clarity above everything  | Avoid technical terms if possible. |
+| Title | Eye catching wtihout beeing false |
+|||
 
 ### Pictures
-- best vector graphics, otherwise large / high resolution
 
+|                    | Description |
+| ------------------ | ----------- |
+| High Resolution | best vector graphics, otherwise large, high resolution |
+| Program         | If able use a specialized programming language (R) |
+| | |
 
 ### Graphs
-- best vector graphics
-- If able use a specialized programming language (R )
 
+|                    | Description |
+| ------------------ | ----------- |
+| High Resolution | best vector graphics, otherwise large, high resolution |
+| Program         | If able use a specialized programming language (R) |
+| | |
 
 ### Tools
-- Powerpoint
-- Prezi
-- Latex (tikzposter)
-- Canvas
+
+|         Tool       | Advantages | Disadvantages |
+| ------------------ | ----------- | ----------- |
+| Powerpoint         | Standard tool | |
+| Prezi              | | |
+| Canvas             | | |
+| Latex              | Programmable | one library  |
+
 
 
 ### Review
-- Print your poster, pin it at a wall in your working place, and provide pens next to it. Let your colleques (or anyone else) write comments on your poster.
+
+|                    | Description |
+| ------------------ | ----------- |
+| Use your colleques | Print your poster, pin it at a wall in your working place, and provide pens next to it. Let your colleques (or anyone else) write comments on your poster. |
+
 
 
 ## Summary
