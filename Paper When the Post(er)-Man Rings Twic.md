@@ -30,7 +30,7 @@ The story we recognize as interessting follow basic principles which can be appl
 | ------------------ | ----------- |
 | Clear Purpose                     | Have a clear purpose in mind while creating content.             |
 | Mind the audience                 | Your poster won't matter if your audience does not understand it. <br><br> You are the expert in the field with a lot of background knowledge. The audience rarely has this and you will need to simplify the content to let them understand it at their level in a short amount of time. <br><br> The common aspect of all the possible audience is, that they don't want to waste their time. |
-| Reduce the Noice to Content Ratio | If you want to transfer knowledge there can be a lot of different "noices" which can distract the audience. The more distraction is present the harder it is for your audience to follow the points you find important. To avoid that add only information and don't overengineer your creation. |
+| Reduce the Noice to Content Ratio | If you want to transfer knowledge there can be a lot of different "noices" which can distract the audience. The more distraction is present the harder it is for your audience to follow the points you find important. To avoid that add only information which is usefull for your purpose and don't overengineer your creation. <br> You normaly don't want the reaction: "It was a beautifull picture, but I have no idea what it was about". |
 | Add Effective Redundancys         | Repetition can be a good tool to emphazize certain information. It is important not to overuse this but if you find something extremley import you can repeat information. For example by adding a relevant graph and adding it in the conclusion. |
 |||
 
@@ -45,8 +45,8 @@ If you create a poster, write a paper, or hold a presentation it is always usefu
 |  Structure         | Description |
 | ------------------  | ----------- |
 | Define purpose         | At first design yourself a clear for the poster. This is something that can be redefined throughout the creation process, but it  is helpfull to to have a redline to orient yourself along the creation process|
-| Choose basic layout    | If you don't now where to start use one of these 4 basic layouts.  |
-| Create sketch          | The eaysiest way to start is to create a sketch with pen and paper.|
+| Choose basic layout    | If you don't now where to start use one of the 4 basic layouts. <br><br> You can be creative, but always have in mind, that the audience need to be able to follow the intended reading flow of your poster.|
+| Create sketch          | The eaysiest way to start is to create a sketch with pen and paper. Write down how people are supposed to read your sketch and ask other people about your idea. |
 |||
 
 
