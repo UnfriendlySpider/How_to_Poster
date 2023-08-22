@@ -19,35 +19,33 @@ The general structure of this paper is to be as easiliy understood as possible. 
 The source code of this paper can be accessed under https://github.com/UnfriendlySpider/How_to_Poster. I am happy to converse with everyone who is interessted in this topic. There are a lot of different ideads and opinions in this area and I am always happy to get additional information.
 
 
-### Principles of Effective Communication [1]
+### Principles of Effective Scientific Communication [1]
 
-Since the beginning of communication humans created tales. It seems to be on of the core needs of humans to tell each other storys and we listen to a lot of different ones during our live. With this training we can often instantly recognize if a story is bad, unstructed, or boring to read/listen/watch to. We can use this ability for the creation of content, as everything can be seen as a story. For that I recommend to look at your poster as a story you want to tell your relatives, friends, and colleques. 
-Let them listen to your story and get their feedback. If they tell you, that your story is hard to follow or boring don't be discouraged. It takes a lot of time to create something good.
+Since ancient times, humans have been natural storytellers. It seems intrinsic to our nature to convey experiences, knowledge, and discoveries. This penchant for narratives is deeply embedded within us, making us discerning listeners, readers, and observers. We can intuitively judge when a narrative lacks coherence, depth, or appeal. The same discernment can be harnessed when crafting content for a scientific poster. Think of your poster as a structured narrative you wish to share with peers, mentors, and even the lay audience. Gather feedback and refine it. Don’t be disheartened by critiques; mastery comes with practice and iteration.
 
-The story we recognize as interessting follow basic principles which can be applied to every communication. In "The Three Laws of Professional Communication" from Doumont [1] four basic laws are proposed for a good communication style.
+The most compelling narratives follow fundamental principles of effective communication. In Doumont's "The Three Laws of Professional Communication" [1], we find invaluable guidelines that can be adeptly applied to scientific poster design.
 
-|                    | Description |
-| ------------------ | ----------- |
-| Clear Purpose                     | Have a clear purpose in mind while creating content.             |
-| Mind the audience                 | Your poster won't matter if your audience does not understand it. <br><br> You are the expert in the field with a lot of background knowledge. The audience rarely has this and you will need to simplify the content to let them understand it at their level in a short amount of time. <br><br> The common aspect of all the possible audience is, that they don't want to waste their time. |
-| Reduce the Noice to Content Ratio | If you want to transfer knowledge there can be a lot of different "noices" which can distract the audience. The more distraction is present the harder it is for your audience to follow the points you find important. To avoid that add only information which is usefull for your purpose and don't overengineer your creation. <br> You normaly don't want the reaction: "It was a beautifull picture, but I have no idea what it was about". |
-| Add Effective Redundancys         | Repetition can be a good tool to emphazize certain information. It is important not to overuse this but if you find something extremley import you can repeat information. For example by adding a relevant graph and adding it in the conclusion. |
-|||
+| Key Principle                          | Description |
+| -------------------------------------- | ----------- |
+| **Clear Purpose**                      | Before embarking on the design process, define your core message. What are the essential takeaways for the audience? Prioritize clarity over excessive detail.|
+| **Mind the Audience**                  | Always design with your audience at the forefront. Understand that while you are deeply immersed in the subject, your audience might be coming in with varying degrees of familiarity. Aim to craft a poster that is both comprehensive for experts and comprehensible for novices. Remember, your goal is engagement and understanding, not overwhelming with jargon or data.|
+| **Reduce Noise-to-Content Ratio**      | In a quest for comprehensiveness, avoid clutter. Every element on your poster should serve a purpose. Eliminate distractions that detract from your core message. Strive for a balance between aesthetic appeal and informative content. As a guiding thought: the audience should leave with clarity on your research, not just admiration for the design.|
+| **Incorporate Effective Redundancies** | Repetition can serve as an anchor for key points. Use this tool judiciously. Emphasize crucial information, perhaps through visual aids like charts, and reiterate its importance in sections like the conclusion.|
 
+The versatility of posters as a medium offers researchers a canvas brimming with possibilities. While creativity in design is encouraged, adhering to established principles of communication ensures that your scientific narrative is not only engaging but also enlightening. Whether designing a poster, penning a paper, or delivering a presentation, keeping these foundational principles at the heart of your effort will set you on the path to effective scientific communication.
 
-
-The beautiful aspect of a posters is, that it is a medium with a lot of possibilities. You can be creative with the design and the presentation style, but even if posters are a flexible medium, there are some basic rules for effective communication. 
-If you create a poster, write a paper, or hold a presentation it is always usefull to remember these principles as they are part of every communication type. 
 
 
 ### Concept Creation
 
-|  Structure         | Description |
+The initial stages of designing a scientific poster require meticulous planning. The following are crucial steps in laying the groundwork for an effective and engaging poster:
+
+|  Structure          | Description |
 | ------------------  | ----------- |
-| Define purpose         | At first design yourself a clear for the poster. This is something that can be redefined throughout the creation process, but it  is helpfull to to have a redline to orient yourself along the creation process|
-| Choose basic layout    | If you don't now where to start use one of the 4 basic layouts. <br><br> You can be creative, but always have in mind, that the audience need to be able to follow the intended reading flow of your poster.|
-| Create sketch          | The eaysiest way to start is to create a sketch with pen and paper. Write down how people are supposed to read your sketch and ask other people about your idea. |
-|||
+| **Define Purpose**      | Start by outlining a clear purpose for your poster. While this can evolve as your design progresses, having a foundational goal ensures consistency and coherence throughout the development process.|
+| **Choose Basic Layout** | Begin with one of the fundamental layouts if you're unsure of the design direction. While innovation is encouraged, always prioritize the audience's ease of comprehension. The poster should guide viewers through its content intuitively, ensuring a logical flow.|
+| **Create Sketch**       | A hand-drawn sketch can be a valuable preliminary tool. Sketch out your ideas on paper, noting the intended reading flow. Solicit feedback from peers to gauge the effectiveness and clarity of your proposed layout.|
+
 
 
 ### Basic Structure
@@ -64,61 +62,110 @@ If you create a poster, write a paper, or hold a presentation it is always usefu
 | Contact Information| Providing contact information allows interested viewers to reach out for further discussion or collaboration. |
 |||
 
-### Design Principles
+### Basic Structure
 
-|             | Description |
-| ----------- | ----------- |
-| Hierarchy   | Information should be organized in a hierarchical manner, guiding the viewer's eye from the most important elements (like the title and key findings) to the less critical ones. |
-| Consistency | Consistency in fonts, colors, and layout can make the poster look professional and easy to read. |
-| Simplicity  | Avoid cluttering the poster with too much text or complex visuals. Keep the design simple and the message clear. |
-| Contrast    | Use contrast to highlight key information and make the text readable. This could be contrast in color, size, or typeface. |
-| Whitespace  | Whitespace, or negative space, is the area of the poster that is left unmarked. It gives the elements on the poster room to breathe and can help guide the viewer's eye. |
-| Color       | Use color sparingly and purposefully. Too many colors can be distracting, while a thoughtful color scheme can enhance the poster's effectiveness. |
-| Typography  | Choose fonts that are easy to read from a distance. The text size should be large enough to be read from at least a meter away. |
-|||
+A structured layout is pivotal for ensuring your scientific poster effectively communicates its content. Here is a breakdown of the primary components:
+
+|  Structure            | Description |
+| --------------------- | ----------- |
+| **Title**             | Craft a title that is succinct, captivating, and indicative of the research theme. It serves as the primary hook, enticing viewers to delve deeper into the content.|
+| **Introduction**      | Introduce the research theme, establishing its significance, and highlighting the study's goals. It sets the context for the subsequent sections.|
+| **Methods**           | Traditionally, this section delineates the research methods, ensuring brevity and clarity. Some contemporary designs opt to omit this in favor of referencing the full paper, streamlining the poster content.|
+| **Results**           | Showcase the salient outcomes of the research. Employ visual tools like graphs, charts, and tables to represent data in a digestible manner.|
+| **Conclusion**        | Recapitulate the primary findings, delving into their ramifications, and propose potential avenues for subsequent research.|
+| **References**        | Detail all cited works, adhering to the citation format prevalent in your discipline.|
+| **Acknowledgments**   | Express gratitude to individuals or entities that played a pivotal role in the research's fruition.|
+| **Contact Information** | Facilitate further engagement by providing avenues for attendees to contact you, fostering potential collaborations or discussions.|
 
 
 
-### Text
+
+
+### Crafting Text for Scientific Posters
+
+The textual elements of a scientific poster need to be both visually appealing and communicative. Consider the following guidelines:
+
+|  Criteria            | Description |
+| -------------------- | ----------- |
+| **Brevity**              | The essence of poster presentations is conciseness. Aim for less than 250 words for poster summaries, trimming unnecessary details without losing core information.|
+| **Clarity Above All**    | Avoid excessive jargon or technical terms unless they are integral to your research's communication. Always consider the diverse background of your audience.|
+| **Title Craftsmanship**  | The title should be captivating, summarizing the research essence without being misleading. It's your primary hook, so make it count.|
+| **Font Selection**       | Choose a legible, sans-serif font for body text like Arial, Helvetica, or Calibri. Serif fonts like Times New Roman can be used for titles or headers to provide contrast.|
+| **Font Size**            | Ensure readability from a distance. Titles should be around 85-95pt, section headers 60-70pt, and body text 32-48pt, depending on the poster size and the chosen font.|
+| **Line Spacing**         | Maintain appropriate line spacing (around 1.2 to 1.5) to enhance readability. Overcrowding makes text difficult to digest.|
+| **Contrast**             | Ensure your text color contrasts well with the background. Dark text on a light background is usually the most legible.|
+| **Alignment**            | Text should be left-aligned for ease of reading, especially for body content. Centered text can be reserved for titles or section headers.|
+| **Highlight Key Points** | Use bold or italics judiciously to emphasize crucial points but avoid underlining as it can disrupt readability.|
+
+
+
+### Incorporating Pictures in Scientific Posters
+
+Images serve as a potent tool for visual communication in scientific posters. Here are guidelines for their effective utilization:
+
+|  Criteria                      | Description |
+| ------------------------------ | ----------- |
+| **High Resolution**            | Whenever possible, use vector graphics, which are resolution-independent and scale without any loss in quality. If vector images aren't feasible, ensure raster images are of high resolution (typically 300 dpi or higher for print).|
+| **Program for Visualization**  | Utilize specialized software or programming languages tailored for data visualization, such as R, Python (with libraries like Matplotlib or Seaborn), or dedicated tools like Tableau. These allow for precision and customization in creating data plots.|
+| **Consistent Style**           | Ensure that images, charts, and graphs have a consistent visual style. This cohesion ensures a professional and harmonious appearance.|
+| **Captions and Labels**        | Every image or graph should have a concise and informative caption. All axes and data points should be clearly labeled, and legends provided where necessary.|
+| **Size and Scaling**           | Adjust images to an appropriate size so they're clear without overwhelming other content. Ensure uniform scaling to prevent distortion.|
+| **Image Relevance**            | Every image included should directly support the research narrative. Avoid decorative images that don't contribute to content comprehension.|
+| **Copyright and Permissions**  | Ensure you have the rights to use all images. If borrowing or adapting, credit sources appropriately and ensure you've obtained necessary permissions.|
+
+
+
+### Integrating Graphs in Scientific Posters
+
+Graphs translate raw data into a comprehensible visual format, providing clarity and underscoring your research's salient points. Adhere to the following principles for optimal impact:
+
+|  Criteria                       | Description |
+| ------------------------------- | ----------- |
+| **High Resolution**             | Always prefer vector formats for graphs to ensure scalability without quality loss. If that's not feasible, rasterized graphs should be high resolution, preferably 300 dpi or higher for printing.|
+| **Visualization Software**      | Leverage specialized software or programming languages like R, Python (utilizing libraries like Matplotlib, Seaborn), or other data visualization tools such as Tableau. These offer a wide array of customization and can represent data with precision.|
+| **Consistency**                 | Maintain a consistent style across all graphs, whether it's in terms of color schemes, legends, or types of graphs used. This ensures a cohesive and professional look.|
+| **Clear Labeling**              | All axes should be distinctly labeled, and any units of measurement specified. Legends must be clear and placed such that they don't clutter the main graph area.|
+| **Graph Type Selection**        | Opt for the graph type (e.g., bar, line, scatter) that best represents your data and the relationships you want to emphasize.|
+| **Minimalistic Design**         | Avoid unnecessary gridlines, labels, or decorations that don't add value. A clutter-free graph is more comprehensible.|
+| **Data Integrity**              | Ensure that the graph represents the data accurately without any distortions or misleading scales.|
+| **Captions and Context**        | Each graph should have a brief caption that explains its significance. When necessary, provide short context or a description to guide interpretation.|
+| **Color Choices**               | Use colors strategically. Colors should be distinguishable, and if there's a sequence or gradation, use color gradients that are easily discernible. Ensure accessibility by checking color contrast and avoiding problematic color combinations for color-blind individuals.|
+
+
+
+### Tools for Creating Scientific Posters
+
+A plethora of software options exists for designing scientific posters. The right tool can amplify the effectiveness of your presentation. Below is an expanded list of tools:
+
+|         Tool       | Advantages                                                         | Disadvantages                                           |
+| ------------------ | ------------------------------------------------------------------ | ------------------------------------------------------- |
+| **Powerpoint**     | - Widely accessible and standard tool<br>- Intuitive for beginners<br>- Many available templates and easy formatting options<br>- Compatible with numerous devices and platforms | - Limited advanced design capabilities<br>- Can become sluggish with high-resolution images and intricate designs  |
+| **Prezi**          | - Dynamic, non-linear presentations<br>- Offers interactive elements and zooming features<br>- Modern and engaging visual transitions  | - Learning curve for those accustomed to traditional slide formats<br>- Not ideal for print formats<br>- Requires internet for online version |
+| **Canva**          | - User-friendly drag-and-drop interface<br>- Vast library of templates, icons, and images<br>- Cloud-based, facilitating collaborative work | - Limited customization in free version<br>- High-resolution exports might require premium version<br>- Not tailored for extensive scientific representations |
+| **LaTeX with Beamer/`pgfplots`/`tikzposter`** | - High-quality typesetting, optimal for intricate scientific content<br>- Programmable, allowing for consistent styling and repeatability<br>- Precise control over elements and positioning | - Steeper learning curve for those unfamiliar with programming or scripting<br>- Requires additional packages for certain design elements<br>- Can be time-consuming for intricate designs |
+| **Adobe Illustrator** | - Professional vector graphics editing tool<br>- Offers precise control over every design element<br>- Wide range of typography and graphics tools | - Expensive and may have a steep learning curve for beginners<br>- Overkill for simple designs |
+| **Inkscape**       | - Free, open-source vector graphics editor<br>- Similar capabilities to Adobe Illustrator for many tasks<br>- Extensive community support | - Might feel less polished than premium tools<br>- Some features less intuitive than other vector tools |
+| **GIMP**           | - Free, open-source raster graphics editor<br>- Suitable for image manipulation and poster design | - Not specifically tailored for poster creation<br>- Learning curve for those accustomed to other graphic software |
+| **CorelDRAW**      | - Powerful graphic design software<br>- Intuitive interface with a suite of design capabilities | - Paid software<br>- Might be considered overkill for straightforward poster designs |
+| **Affinity Designer** | - Professional graphic design software at a more affordable price point than Adobe products<br>- Smooth and responsive performance<br>- Versatile raster and vector editing capabilities | - Might have a learning curve for those new to graphic design |
+
+
+
+
+### Review Process for Enhancing Poster Quality
+
+Ensuring your poster's clarity, impact, and effectiveness necessitates a thorough review. Below are some recommended strategies:
+
 |                    | Description |
 | ------------------ | ----------- |
-| Short                     | Dont waste the time of the audience. Rule of tumbs is under 250 words. Shorten where it is possible. |
-| Clarity above everything  | Avoid technical terms if possible. |
-| Title | Eye catching wtihout beeing false |
-|||
+| **Peer Review** | Share your poster with colleagues and experts in your field. A fresh set of eyes can provide valuable insights, point out any overlooked errors, and offer constructive criticism. |
+| **Public Display** | Print a draft of your poster and pin it in a communal area, like a departmental bulletin board. Provide pens or sticky notes for viewers to jot down feedback directly on the poster. |
+| **Feedback Loop** | Continual feedback is the key to refinement. Always iterate on your design based on the input you receive, and seek feedback multiple times throughout the creation process. |
+| **Distance Yourself** | After designing, take a short break before reviewing. Returning with a fresh perspective can help you spot inconsistencies or areas of confusion that you might have missed initially. |
+| **Professional Attitude** | Remember that critique is a stepping stone to excellence. Stay open-minded, welcome feedback with grace, and use it to elevate your work's quality. |
+| **Practice Presentation** | If possible, practice presenting your poster to a small group. This will not only help you refine the poster itself but will also prepare you for the actual presentation. Their questions and reactions can offer insights into which sections may need more clarity or emphasis. |
+| **Check Technical Details** | Ensure that all visuals, especially graphs and charts, are accurate. Double-check the resolution, color consistency, and alignment of all elements. |
 
-### Pictures
-
-|                    | Description |
-| ------------------ | ----------- |
-| High Resolution | best vector graphics, otherwise large, high resolution |
-| Program         | If able use a specialized programming language (R) |
-| | |
-
-### Graphs
-
-|                    | Description |
-| ------------------ | ----------- |
-| High Resolution | best vector graphics, otherwise large, high resolution |
-| Program         | If able use a specialized programming language (R) |
-| | |
-
-### Tools
-
-|         Tool       | Advantages | Disadvantages |
-| ------------------ | ----------- | ----------- |
-| Powerpoint         | Standard tool | |
-| Prezi              | | |
-| Canvas             | | |
-| Latex              | Programmable | one library  |
-
-
-
-### Review
-
-|                    | Description |
-| ------------------ | ----------- |
-| Use your colleques | Print your poster, pin it at a wall in your working place, and provide pens next to it. Let your colleques (or anyone else) write comments on your poster. |
 
 
 
