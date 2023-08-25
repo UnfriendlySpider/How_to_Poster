@@ -59,7 +59,23 @@ The following table contains a few reasons, but if you really want to be sure ab
 
 ### Classical or Modern?
 This chapter is more a part of the starting steps chapter, but as I find it 
-The classical poster design is and old evaluated layout, but if you are a little courageus you can try to create a billboard poster. It is also called the Poster 2.0 and could be one of the designs of the future. We will talk about that later and a lot of the tipps for a classical poster can be used for a billboard poster, so don't worry about 
+The classical poster design is and old evaluated layout, but if you are a little courageus you can try to create a billboard poster. It is also called the Poster 2.0 and could be one of the designs of the future. We will talk about that later and a lot of the tipps for a classical poster can be used for a billboard poster, so don't worry. What you learn at first can be applied to the modern stuff later.
+
+<table>
+<tr>
+    <td>
+        <img src="Pictures/example_Billboard_poster.png" alt="Alternative text for image 1">
+        <br>
+        Classical Desgin
+    </td>
+    <td>
+        <img src="Pictures/example_Billboard_poster.png" alt="Alternative text for image 2">
+        <br>
+        Billboard Design
+    </td>
+</tr>
+</table>
+
 
 
 ### Starting steps
@@ -71,6 +87,12 @@ The initial stages of designing a scientific poster require planning. The follow
 | **Poster Size**    | Find out the size that is required for the conference. The sizes can very and it talks time to adjust the size, which can be avoided by initially using the correct size |
 | **Choose Layout**   | Begin with one of the fundamental layouts if you're unsure of the design direction. While innovation is encouraged, always prioritize the audience's ease of comprehension. The poster should guide viewers through its content intuitively, ensuring a logical flow. If the flow is not to intuitvaly add numbers or arrows to guide the view of the audience|
 | **Create Sketch**   | A hand-drawn sketch can be a valuable preliminary tool. Sketch out your ideas on paper, noting the intended reading flow. Solicit feedback from peers to gauge the effectiveness and clarity of your proposed layout.|
+
+<div style="border: 1px solid #eaeaea; padding: 10px; margin: 10px 0; background-color: #f9;">
+❓ Where do I get templates  <br>  
+<a href="https://www.posternerd.com/sciposters-templates">Posternerd</a> is a website where you can print posters, but they also provide templates. 
+</div>
+
 
 ### General Thoughts to consider
 |  Thought            | Description |
@@ -98,8 +120,8 @@ A structured layout is pivotal for ensuring your scientific poster effectively c
 |                          | Guideline |
 |--------------------------|------------------------------|
 | **Emphazize heading**    | To help the audience identify the different sections of your poster you can add clear sections with color, boxes, bold text or a lot of whitspace.|
-| **Content Distribution** | Ensure your poster has roughly 20% text, 40% figures, and 40% space.|
-| **Spacing**              | Allow sufficient space around your text and sections. This is also called "Negative Space" or "Breathing space.|
+| **Spacing**              | Allow sufficient space around your text and sections. This is also called "Negative Space" or "Breathing space. If there is not enough Negative Space on the poster it will feel crowded an overwhelming.|
+| **Content Distribution** | Find out what the propotion of text to figure to negative space is in your poster. A Recommondation of the Undergraduate Research Center is roughly 20% text, 40% figures, and 40% space [3]. This depends on your choosen layout and your purpose, but take the message not to go overboard with text.|
 | **Contrast**             | Ensure your text color contrasts well with the background. Dark text on a light background is usually the most legible. Often it is recommended to just leave the background white.|
 
 
