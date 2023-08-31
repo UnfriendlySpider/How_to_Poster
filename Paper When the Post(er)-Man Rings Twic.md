@@ -7,28 +7,28 @@ Scientific posters are essential for communicating research findings to a broade
 
 ## Introduction
 
-Scientific posters serve as a crucial medium for the Sharing of research findings. They offer a platform for researchers to present their work in a visually appealing and fast manner, facilitating the exchange of ideas and fostering scientific discussions. Despite their significance, the art of creating an effective scientific poster is often overlooked in academic training. This paper aims to bridge this gap by providing a comprehensive guide to creating engaging and informative scientific posters.
+Scientific posters serve as a crucial medium for the Sharing of research findings. They offer a platform for researchers to present their work visually appealing and fast, facilitating the exchange of ideas and fostering scientific discussions. Despite their significance, the art of creating an effective scientific poster should be more noticed in academic training. This paper aims to bridge this gap by providing a comprehensive guide to creating engaging and informative scientific posters.
 
-The importance of scientific posters extends beyond mere aesthetics. A well-designed poster can captivate the audience's attention, simplify complex information, and promote the researcher's work effectively. Conversely, a poorly designed poster can obscure the research message and deter potential discussions. Therefore, mastering the art of poster creation is an essential skill for any researcher.
+The importance of scientific posters extends beyond mere aesthetics. A well-designed poster can captivate the audience's attention, simplify complex information, and effectively promote the researcher's work. Therefore, mastering the art of poster creation is essential for any researcher.
 
-This paper will delve into the key elements of a successful poster, discuss the principles of design and classical and modern design. It will also provide a step-by-step guide to creating a scientific poster, offering practical tips and recommendations along the way. By the end of this paper, researchers will be equipped with the tools to transform their scientific findings into a visually compelling and informative poster.
+This paper will delve into the key elements of a successful poster and discuss the principles of design and classical and modern design. It will also provide a step-by-step guide to creating a scientific poster, offering practical tips and recommendations. By the end of this paper, researchers will be equipped with the tools to transform their scientific findings into a visually compelling and informative poster.
 
-The general structure of this paper is to be as easiliy understood as possible. To achiev this every chapter is written mostly in a table form, as this summarizes everything in the most structured way.  
-The source code of this paper can be accessed under https://github.com/UnfriendlySpider/How_to_Poster. I am happy to converse with everyone who is interessted in this topic. There are a lot of different ideas and opinions in this area and I am always happy to get additional information.
+The general structure of this paper is to be as easily understood as possible. To achieve this, every chapter is written mainly in a table form, as this summarizes everything in the most structured way.  
+The source code of this paper can be accessed at https://github.com/UnfriendlySpider/How_to_Poster. I am happy to converse with everyone interested in this topic. There are a lot of different ideas and opinions in this area, and I am always excited to get additional information.
 
 
 
 
 ## Principles of Effective Scientific Communication [1]
 
-Since ancient times, humans have been natural storytellers. It seems intrinsic to our nature to convey experiences, knowledge, and discoveries. This penchant for narratives is deeply embedded within us, making us discerning listeners, readers, and observers. We can intuitively judge when a narrative lacks coherence, depth, or appeal. The same discernment can be harnessed when crafting content for a scientific poster. Think of your poster as a structured narrative you wish to share with peers, mentors, and even the lay audience. Gather feedback and refine it. Don’t be disheartened by critiques; mastery comes with practice and iteration.
+Since ancient times, humans have been natural storytellers. It seems intrinsic to our nature to convey experiences, knowledge, and discoveries. This penchant for narratives is deeply embedded within us, making us discerning listeners, readers, and observers. We can intuitively judge when a description lacks coherence, depth, or appeal. The same discernment can be harnessed when crafting content for a scientific poster. Think of your poster as a structured narrative you wish to share with peers, mentors, and even the lay audience. Gather feedback and refine it. Don’t be disheartened by critiques; mastery comes with practice and iteration.
 
 The most compelling narratives often follow fundamental principles of effective communication. In Doumont's "The Three Laws of Professional Communication" [1], we find invaluable guidelines that can be adeptly applied to scientific poster design. Don't be confused by the title in combination with the table. Doumont does not count his zero law.
 
 | Key Principle                          | Description |
 | -------------------------------------- | ----------- |
 | **Clear Purpose**                      | Before embarking on the design process, define your core message. What are the essential takeaways for the audience? Prioritize clarity over excessive detail.|
-| **Mind the Audience**                  | Always design with your audience at the forefront. Understand that while you are deeply immersed in the subject, your audience might be coming in with varying degrees of familiarity. Aim to craft a poster that is both comprehensive for experts and comprehensible for novices. Remember, your goal is engagement and understanding, not overwhelming with jargon or data. You want the audience to understand you and not convince them that you are smart (which can also be a purpose, but this would be mostly thought of as a bad way to use science). Be smart. Don't sound smart.|
+| **Mind the Audience**                  | Always design with your audience at the forefront. Understand that while you are deeply immersed in the subject, your audience might come in with varying degrees of familiarity. Aim to craft a poster that is comprehensive for experts and comprehensible for novices. Remember, your goal is engagement and understanding, not overwhelming with jargon or data. You want the audience to understand you rather than convince them that you are smart (which can also be a purpose, but this would be primarily thought of as the wrong way to use science). Be smart, and don't sound smart!|
 | **Reduce Noise-to-Content Ratio**      | In a quest for comprehensiveness, avoid clutter. Every element on your poster should serve a purpose. Eliminate distractions that detract from your core message. Strive for a balance between aesthetic appeal and informative content. As a guiding thought: The audience should leave with an impression on your research, not just admiration for the design. The design is a tool to let your audience engage.|
 | **Incorporate Effective Redundancies** | Repetition can serve as an anchor for key points. Use this tool sparingly. Emphasize crucial information, perhaps through visual aids like charts, and reiterate its importance in sections like the conclusion.|
 
@@ -38,7 +38,7 @@ Whether designing a poster, penning a paper, or delivering a presentation, keepi
 ## Step-by-Step Guide
 
 
-### Concept Creation
+### Purpose
 The most important aspect of creating content is to have a clear understanding of what you want to achieve with your creation. There are multiple reasons for creating a poster, with maybe the clearest being to show other people your own science. However, there can be numerous other reasons that influence your output or your creation process. It is always important to remember these reasons, as sometimes you need to tweak your poster design into certain direction to achieve your real purpose.
 
 For example, If you want to have feedback about your research your poster should be more detailed and suited to a knowlegdable audience. If you want to promote your research you can simplify your poster that people outside your field understand it. 
@@ -83,7 +83,7 @@ The classical poster design is and old evaluated layout, but if you are a little
 | **Creativity vs. Common Layout**|The versatility of posters as a medium offers researchers a canvas brimming with possibilities. While creativity in design is encouraged, adhering to established principles of communication ensures that your scientific narrative is easiliy understood. Try to find a balance between interessting new designs and easily understandable established ways. |
 
 
-### Starting steps
+### Sketch Creation
 The initial stages of designing a scientific poster require planning. The following are steps in laying the groundwork for an effective and engaging poster:
 
 |  Steps              | Description |
@@ -114,7 +114,7 @@ A structured layout is pivotal for ensuring your scientific poster effectively c
 | **Contact Information** | Facilitate further engagement by providing avenues for attendees to contact you, fostering potential collaborations or discussions.|
 
 
-### Formatting Tipps
+### Poster Formating
 
 |                          | Guideline |
 |--------------------------|------------------------------|
@@ -123,8 +123,17 @@ A structured layout is pivotal for ensuring your scientific poster effectively c
 | **Content Distribution** | Find out what the propotion of text to figure to negative space is in your poster. A Recommondation of the Undergraduate Research Center is roughly 20% text, 40% figures, and 40% space [3]. This depends on your choosen layout and your purpose, but take the message not to go overboard with text.|
 | **Contrast**             | Ensure your text color contrasts well with the background. Dark text on a light background is usually the most legible. Often it is recommended to just leave the background white.|
 
+### Color
+The next step is to think about what kind of color theme your poster is supposed to have. There are multiple way to do that, but it is a good idea to not be to colorful. If you create to much noice with a diverce color scheme people can be distracted from the actual content you want to tell them. Adjust the color of your pictures and charts to suit your prefered theme.
 
-### Crafting Text for Scientific Posters
+Often organizations have a color theme that should or is recommended to be used. If you do not have something like that you can use a recommondation from posternerd.com [4]
+
+![Color Recommondation](https://cdn.posternerd.com/image/posternerd/sciposters/tutorials/poster-color-schemes.png)
+
+Another really interessting approach is to use a image to image picture creation model to generate a lot of examples with your template as a reference. It is a little bit complicated but can generate a lot of inspiration. If you are interessted you can search for **ControlNet** in combination with **Stable Diffusion**.
+
+
+### Text in Scientific Posters
 
 Text is an indispensable part of a poster. Despite that it is not recommended to use the medium text as the main driver of the poster. Often people write their abstract into the Introduction, and under certain goals this could be a valid approach. But mostly a lot of the possible audience tends to avoid reading big text blocks at an event. Even if it is easier, and faster for you, to just add the abstract, think about shortening it or change it to a bullet point format.
 
@@ -182,18 +191,9 @@ Captions             | 18pt
 </table>
 
 
-### Color
-The next step is to think about what kind of color theme your poster is supposed to have. There are multiple way to do that, but it is a good idea to not be to colorful. If you create to much noice with a diverce color scheme people can be distracted from the actual content you want to tell them. Adjust the color of your pictures and charts to suit your prefered theme.
-
-Often organizations have a color theme that should or is recommended to be used. If you do not have something like that you can use a recommondation from posternerd.com [4]
-
-![Color Recommondation](https://cdn.posternerd.com/image/posternerd/sciposters/tutorials/poster-color-schemes.png)
-
-Another really interessting approach is to use a image to image picture creation model to generate a lot of examples with your template as a reference. It is a little bit complicated but can generate a lot of inspiration. If you are interessted you can search for **ControlNet** in combination with **Stable Diffusion**.
 
 
-
-### Incorporating Pictures in Scientific Posters
+### Pictures in Scientific Posters
 
 Images serve as a potent tool for visual communication in scientific posters. Here are guidelines for their effective utilization:
 
@@ -209,7 +209,7 @@ Images serve as a potent tool for visual communication in scientific posters. He
 
 
 
-### Integrating Graphs in Scientific Posters
+### Graphs in Scientific Posters
 
 Graphs translate raw data into a comprehensible visual format, providing clarity and underscoring your research's salient points. Adhere to the following principles for optimal impact:
 
@@ -246,7 +246,7 @@ A plethora of software options exists for designing scientific posters. The righ
 
 
 
-### Review Process for Enhancing Poster Quality
+### Review Process
 
 Ensuring your poster's clarity, impact, and effectiveness necessitates a thorough review. Below are some recommended strategies:
 
